@@ -17,11 +17,12 @@ To use GitHub Copilot, you need to install the extension in Visual Studio Code.
 1. Open Visual Studio Code  
 2. Go to Extensions (`Ctrl + Shift + X`)  
 3. Search for "GitHub Copilot" and install it  
+```
 
 🔗 Learn More
 	•	Official GitHub Copilot Documentation
 	•	GitHub Copilot Pricing
-```
+
 
 <br>
 Shortcut:** `⌘ + I` (Command + I on macOS)
